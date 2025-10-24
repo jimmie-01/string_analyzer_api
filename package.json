@@ -2,7 +2,7 @@
   "name": "string_analyzer_api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
    "start": "node src/app.js",
    "dev": "nodemon src/app.js"
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "homepage": "https://github.com/jimmie-01/string_analyzer_api#readme",
   "dependencies": {
     "body-parser": "^2.2.0",
